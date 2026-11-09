@@ -2,9 +2,9 @@
 
 <div align="center">
 
-# arghavan saatsaz
+# Arghavan Saatsaz
 
-> Frontend or full-stack engineer
+> Cybersecurity student Creating Cool Projects focused on AI , Cloud and Cybersecurity
 
 <p align="center">
   <img src="https://www.gitskins.com/api/section/hero?username=aransaat&theme=neon&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F121577342%3Fu%3D57e01ad3327b12acca0c28435fa1184b54f319ba%26v%3D4" alt="aransaat hero visual" />
